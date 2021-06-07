@@ -1,5 +1,5 @@
 # scanSim
-Simulates high intensity focused ultrasound heating with adjustable sonication parameters.
+Simulates high intensity focused ultrasound heating with adjustable sonication parameters, using k-wave.
 
 ![Tfp_X_1EM7_6EM7](https://user-images.githubusercontent.com/53169576/121063612-d8390680-c7c6-11eb-9320-47be8dd3aaf1.png)
 
