@@ -7,6 +7,7 @@ Simulates high intensity focused ultrasound heating with adjustable sonication p
 # Spatial Integral Temperature
 ![1_simulator_intTemp](https://user-images.githubusercontent.com/53169576/121936287-c072fc80-cd49-11eb-88ba-e8ce137ce248.png)
 
+# Other Interesting Simulations
 ![Tfp_X_1EM7_6EM7](https://user-images.githubusercontent.com/53169576/121063612-d8390680-c7c6-11eb-9320-47be8dd3aaf1.png)
 
 ![intensity_to_temp_fp](https://user-images.githubusercontent.com/53169576/121063652-e2f39b80-c7c6-11eb-8c0b-402c05db7921.png)
